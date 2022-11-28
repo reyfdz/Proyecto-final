@@ -1,6 +1,6 @@
 # Descripcion del GitHub
 Arriba adjuntamos:
-Colab del proyecto final, Bases de datos (.csv), Los dos entregables del periodo, y una práctica que utilizamos para hacernos una idea de lo que podiamos hacer
+Colab del proyecto final(.pynlb), Bases de datos (.csv), Los dos entregables del periodo, y una práctica que utilizamos para hacernos una idea de lo que podiamos hacer
 
 
 # Datos Hospitales
