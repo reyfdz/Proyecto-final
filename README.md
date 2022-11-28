@@ -1,8 +1,8 @@
 # Datos Hospitales
-Hicimos un analisis exploratorio de una base de datos de los todos los hospitales de estados unidos.
+Hicimos un analisis exploratorio de una base de datos de los todos los hospitales de estados unidos y dimos soluciones a algunos problemas.
 
 ## 1- ¿Cuál fue el motivo de elegir tu base de datos?
-Elegimos esta base de datos ya que en un futuro nos gustaria especializarnos en el área de hospitales y sentimos con esto nos podemos dar una idea de lo que podemos hacer en un futuro como alaistas de datos.
+Elegimos esta base de datos ya que en un futuro nos gustaria especializarnos en el área de hospitales y sentimos con esto nos podemos dar una idea de lo que podemos hacer en un futuro como alaistas de datos. Y tambien porque sentimos que el Big Data puede y tiene que mejorar esta industria. Los hospitales tienen mcuhos datos que estan siendo desperdiciados.
 
 ## 2- ¿Cuáles fueron tus fuentes para desarrollar el proyecto?
 https://stackoverflow.com/questions/44505738/pandas-adding-columns-matching-on-index
@@ -14,7 +14,7 @@ https://seaborn.pydata.org/
 Los dataframes que usamos en este caso estan adjuntados en el colab y en el mismo github
 
 ## 3- ¿Cuáles fueron tus metas para tu entendimiento del proyecto?
-Nos gustaría evolucionar la industria de los hospitales por medio insights, predicciones y una estructura que se pueda manipular.
+Nos gustaría evolucionar la industria de los hospitales por medio de insights, predicciones y una estructura que se pueda manipular. Dar soluciones para la toma de decisiones de distintos hospitales y en lo personal en entendimiento de una industria que 
 
 ## 4- ¿Qué elementos representativos tomaste en cuenta, esto es cuáles fueron tus variables?
 Tomamos en cuenta la ubicacion de los tipos de hospitales, helipuertos, coordenadas, tasas de mortalidad, hospitales, 
