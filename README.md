@@ -14,10 +14,10 @@ https://seaborn.pydata.org/
 Los dataframes que usamos en este caso estan adjuntados en el colab y en el mismo github
 
 ## 3- ¿Cuáles fueron tus metas para tu entendimiento del proyecto?
-Nos gustaría evolucionar la industria de los hospitales por medio de insights, predicciones y una estructura que se pueda manipular. Dar soluciones para la toma de decisiones de distintos hospitales y en lo personal en entendimiento de una industria que 
+Nos gustaría evolucionar la industria de los hospitales por medio de insights, predicciones y una estructura que se pueda manipular. Dar soluciones para la toma de decisiones de distintos hospitales y en lo personal en entendimiento de una industria que está solicitando por ayuda tecnologica.
 
 ## 4- ¿Qué elementos representativos tomaste en cuenta, esto es cuáles fueron tus variables?
-Tomamos en cuenta la ubicacion de los tipos de hospitales, helipuertos, coordenadas, tasas de mortalidad, hospitales, 
+Tomamos en cuenta la ubicacion de los tipos de hospitales, helipuertos, coordenadas, tasas de mortalidad, hospitales y tambien las calificaciones de hospitales.
 
 
 # Concusion : Emilio
