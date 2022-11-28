@@ -1,3 +1,11 @@
+# Descripcion del GitHub
+Arriba adjuntamos:
+Colab del proyecto final
+Bases de datos (.csv)
+Los dos entregables del periodo
+Y una práctica que utilizamos para hacernos una idea de lo que podiamos hacer
+
+
 # Datos Hospitales
 Hicimos un analisis exploratorio de una base de datos de los todos los hospitales de estados unidos y dimos soluciones a algunos problemas.
 
